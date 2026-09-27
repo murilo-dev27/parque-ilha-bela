@@ -7,7 +7,7 @@ A ideia do projeto é criar uma página para um parque fictício, mostrando algu
 
 ## Projeto
 
-[Ver o site](https://murilo-dev27.github.io/parque-ilha-bela/)
+[Clique aqui para acessar o site] (https://murilo-dev27.github.io/parque-ilha-bela/)
 
 ## Sobre
 
@@ -47,6 +47,8 @@ Ainda estou no começo dos estudos, então pretendo continuar melhorando esse pr
 Murilo
 
 Estudante de desenvolvimento web.
+
+[Meu GitHub](https://github.com/murilo-dev27)
 
 ---
 
